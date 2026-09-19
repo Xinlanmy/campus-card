@@ -6,6 +6,14 @@
 
 ![背面](images/card-back.png)
 
+## 成品实拍
+
+实物：深蓝阻焊 + 沉金。
+
+![正面实拍](images/card-front-photo.jpg)
+
+![背面实拍](images/card-back-photo.jpg)
+
 ---
 
 ## 设计
